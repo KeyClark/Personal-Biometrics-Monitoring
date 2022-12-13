@@ -9,7 +9,7 @@
     "docker:run": "docker run --rm -p 49160:8080 pbmon/server"
   },
   "dependencies": {
-    "express": "^4.16.1",
+    "express": "^4.17.3",
     "pg-promise": "^10.5.2"
   }
 }
